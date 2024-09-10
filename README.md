@@ -7,8 +7,8 @@ This website is designed to offer a convenient shopping experience, whether you'
 * Top Brands: Showcasing a wide range of brands available for purchase.
 ## Technologies Used
 Technologies Used
-Frontend: HTML
-Design: CSS and JavaScript
+* Frontend: HTML
+* Design: CSS and JavaScript
 ## Final Output
 ![ui-2](https://github.com/user-attachments/assets/81806f7d-9630-4914-80e5-a764120f3b51)
 ![ui-2 1](https://github.com/user-attachments/assets/a25093aa-e02c-48c0-9185-b8baf3b8150d)
